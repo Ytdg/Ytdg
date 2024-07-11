@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikita
 ####  Android developer
-![ Android developer](https://get.wallhere.com/photo/white-black-minimalism-logo-simple-androids-operating-systems-line-darkness-screenshot-computer-wallpaper-font-59175.jpg)
+![ Android developer](https://avatars.githubusercontent.com/u/76431656?v=4)
 
 I am an android developer from Russia. I study at the University of Dubna in the field of Software Engineering. I finished the 2nd year and I am 20 years old. In addition, I like back-end development and making interesting projects in various languages.
 
@@ -13,7 +13,6 @@ Skills: **Kotlin+Java**/ Python / C# / C++
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ytdg)  
-
 
 
 

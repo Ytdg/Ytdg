@@ -12,7 +12,7 @@ Skills: **Kotlin+Java**/ Python / C# / C++
 - 📫 How to reach me: nikiljgryt@gmail.com 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ytdg)  
 
 
 
